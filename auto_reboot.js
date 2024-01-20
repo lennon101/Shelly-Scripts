@@ -1,6 +1,3 @@
-//let greeting = "Beginning ping test!";
-//print(greeting);
-
 let CONFIG = {
   endpoints: [
     "https://global.gcping.com/ping",
